@@ -21,23 +21,13 @@ Building practical web experiences and improving my problem-solving skills one p
 ```javascript
 const raj = {
   name: "Raj Wardhan Singh",
-  education: "B.Tech in Computer Science Engineering",
+  education: "Final year B.Tech in Computer Science Engineering",
   college: "GCET, Greater Noida",
-  languages: ["Java", "JavaScript", "C", "Python"],
-  frontend: ["HTML", "CSS", "JavaScript"],
+  programming language: ["Java"],
+  frontend: ["HTML", "CSS", "JavaScript", "React.js"],
   backend: ["Node.js", "Express.js"],
   databases: ["MongoDB", "SQL", "PostgreSQL"],
-  tools: ["Git", "GitHub", "Vercel", "Render"],
-  interests: [
-    "Web Development",
-    "Data Structures & Algorithms",
-    "Building Projects"
-  ],
-  currentFocus: [
-    "Practising DSA in Java",
-    "Building practical web applications",
-    "Improving backend and database fundamentals"
-  ]
+  tools: ["Git", "GitHub", "Chatgpt", "Claude"],
 };
 ```
 
@@ -107,24 +97,6 @@ Visitor analytics backend that records device, browser, operating-system, and ap
 [View Repository →](https://github.com/rajwardhansingh2708/bio-tracker)
 
 </td>
-<td width="50%" valign="top">
-
-### 🎨 Bio-frontend
-
-Responsive personal bio landing page with animated UI elements and a social-media bento-grid layout.
-
-- Responsive layout
-- Animated UI
-- Backend analytics integration
-
-**Tech:** HTML, CSS, JavaScript, Vercel
-
-[View Repository →](https://github.com/rajwardhansingh2708/bio-frontend)
-
-</td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🤖 CompanionBot
